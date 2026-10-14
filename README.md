@@ -214,8 +214,6 @@ Cloud Security   [####------]  40%
 
 <img src="https://streak-stats.demolab.com?user=Cypheeeeer7&theme=dark&hide_border=true&background=000000&ring=00ff66&fire=00ff66&currStreakLabel=00ff66" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cypheeeeer7&bg_color=000000&color=00ff66&line=00ff66&point=ffffff&area=true&hide_border=true" width="100%" />
-
 </div>
 
 ---
@@ -256,3 +254,4 @@ jnvgvat gb or rkcybvgrq.
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff66,50:03140a,100:000000&height=100&section=footer" width="100%" />
 
 </div>
+
